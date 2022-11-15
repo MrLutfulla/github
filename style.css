@@ -130,7 +130,8 @@
     cursor: pointer;
   }
   main .about .button:hover {
-    background: red;
+    background: bisque;
+    color: #828282;
   }
   main .my_img {
     width: 50%;
